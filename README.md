@@ -1,5 +1,5 @@
 ---
-title Titulo de la página de moisty70 en github
+title: Titulo de la página de moisty70 en github
 ---
 ## Welcome to GitHub Pages for 
 
