@@ -1,32 +1,26 @@
-## Welcome to GitHub Pages for 
+## Welcome to GitHub Pages for development of plugin for bookie cuotes
 
-You can use the [editor on GitHub](https://github.com/moisty70/moisty70.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Our objetive is to mantain a cuotes database** along the time to compare it with the results of every betting market. After that we will proccess all the data obtained to start compiling many statistics and use them to create great content for our websites.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The first website that will have this data shown** will be a spanish site called apuestas de futbol [use this link to check](http://www.apuestafutbol.net/). Is a spanish football website that will be a great place to test all this data because of the amount of visitors that receives every day.
 
-### Markdown
+We are in test fase, just getting data from the sources to the database, all the data will be shown no earlier than the begining of the 2017/18 football season.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sources
 
-```markdown
-Syntax highlighted code block
+The coutes are get from the official source of each bookie. Only some of them have this feature available to the affiliates so not all the bookies will be shown at the data.
 
-# Header 1
-## Header 2
-### Header 3
+This is not a big issue due to the similarity of the cuotes for almost all the bookies, the are barely slightly differences so with 3 bookies should be enough, we will use at least 4.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The first bookies that sent us data are:
+1. Bet365
+The top bookie gave us access to the cuotes feeds so will be in the data processed.
+2. luckia
+Spanish bookies
+3. marathon.bet
+Another bookie with great cuotes.
+4. William H.
+Well know bookie.
 
 ### Jekyll Themes
 
