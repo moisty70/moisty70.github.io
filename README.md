@@ -1,6 +1,3 @@
----
-title: Titulo de la página de moisty70 en github
----
 ## Welcome to GitHub Pages for 
 
 You can use the [editor on GitHub](https://github.com/moisty70/moisty70.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
