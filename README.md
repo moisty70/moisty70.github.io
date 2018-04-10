@@ -2,7 +2,7 @@
 
 **Our objetive is to mantain a odds database** along the time to compare it with the results of every betting market. After that we will proccess all the data obtained to start compiling many statistics and use them to create great content for our websites.
 
-**The first website that will have this data shown** will be a spanish site called apuestas de futbol [use this link to check](http://www.apuestafutbol.net/codigo-promocional/bet365-2015.html). Is a spanish football website that will be a great place to test all this data because of the amount of visitors that receives every day.
+**The first website that will have this data shown** will be a spanish site called apuestas de futbol [use this link to apuestafutbol.net](https://www.apuestafutbol.net). Is a spanish football website that will be a great place to test all this data because of the amount of visitors that receives every day.
 
 We are in test fase, just getting data from the sources to the database, all the data will be shown no earlier than the begining of the 2017/18 football season.
 
